@@ -1,1 +1,1 @@
-
+LiMSA-UNet is a lightweight, modality-selective 3D U-Net designed for efficient and accurate brain tumor segmentation, optimized for deployment in resource-constrained settings. This repository has the reference list file.
